@@ -1,0 +1,11 @@
+rt.pornhub.com##div[id*="age-verefication-"]
+vk.com##div[class*="feed_friends_recomm"]
+vk.com##div[class*="stories_feed_wrap"]
+vk.com##div[class*="apps_feedRightAppsBlock"]
+vk.com##div[class*="BookmarkGameBlock"]
+vk.com##a[class*="feed_blog_remind"]
+vk.com##div[id="friends_right_blocks_root"]
+vk.com##div[class*="audio_stream_mix"]
+vk.com##div[class*="mk_vkfs01_proxyNode"]
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
+||static.songsterr.com/production-main/static/media/plus-showroom-sidebar-lf-BEzvayDm.svg
