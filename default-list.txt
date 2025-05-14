@@ -1,4 +1,10 @@
 [Adblock Plus 2.0]
+! Version: 0.1
+! Title: Default Custom List
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
 rt.pornhub.com##div[id*="age-verefication-"]
 vk.com##div[class*="feed_friends_recomm"]
 vk.com##div[class*="stories_feed_wrap"]
