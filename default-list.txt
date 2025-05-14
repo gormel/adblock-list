@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 rt.pornhub.com##div[id*="age-verefication-"]
 vk.com##div[class*="feed_friends_recomm"]
 vk.com##div[class*="stories_feed_wrap"]
