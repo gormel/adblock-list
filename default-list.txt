@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 0.1
 ! Title: Default Custom List
-! Last modified:
-! Expires: 4 days (update frequency)
+! Expires: 4 days
 ! Homepage:
 !
 rt.pornhub.com##div[id*="age-verefication-"]
