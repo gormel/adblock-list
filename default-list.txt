@@ -1,8 +1,11 @@
 [Adblock Plus 2.0]
-! Title: Default Custom List
-! Expires: 4 days
+! Version:
+! Title: My List
+! Last modified:
+! Expires: 4 days (update frequency)
 ! Homepage:
 !
+vk.com##div[class*="StoryBlock"]
 rt.pornhub.com##div[id*="age-verefication-"]
 vk.com##div[class*="feed_friends_recomm"]
 vk.com##div[class*="stories_feed_wrap"]
