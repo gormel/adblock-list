@@ -5,7 +5,6 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-rt.pornhub.com##div[id*="age-verefication-"]
 vk.ru##div[class*="feed_friends_recomm"]
 vk.ru##div[class*="stories_feed_wrap"]
 vk.ru##div[class*="apps_feedRightAppsBlock"]
@@ -13,7 +12,6 @@ vk.ru##div[class*="BookmarkGameBlock"]
 vk.ru##a[class*="feed_blog_remind"]
 vk.ru##div[id="friends_right_blocks_root"]
 vk.ru##div[class*="audio_stream_mix"]
-||static.songsterr.com/production-main/static/media/plus-showroom-sidebar-lf-BEzvayDm.svg
 vk.ru##div[class*="mk_vkfs01_proxyNode"]
 vk.ru##div[class*="StoryBlock"]
 vk.ru##section[data-testid="groups-recommendation-block"]
